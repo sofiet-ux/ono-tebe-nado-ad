@@ -3,7 +3,7 @@
   --main-dark-color: #000;
   --main-light-color: #fff;
   --overlay-transparency: 0.6;
-  --primary-font-family: "Raleway", sans-serif;
+  --primary-font-family: "Raleway";
   --large-heading-size: 100px;
   --section-vertical-spacing: 165px;
   --section-horizontal-spacing: 50px;
@@ -14,8 +14,8 @@
 *,
 *::before,
 *::after 
-{ 
-  box-sizing: border-box; 
+{
+  box-sizing: border-box;
 }
 
 html, body 
