@@ -12,8 +12,7 @@
 
 *,
 *::before,
-*::after  
- {
+*::after  {
   box-sizing: border-box;
 }
 
@@ -130,7 +129,7 @@ html, body {
   width: 100%;
 }
 
-.hero-heading-line.right-aligned  {
+.hero-heading-line.right-aligned {
   text-align: right;
 }
 
