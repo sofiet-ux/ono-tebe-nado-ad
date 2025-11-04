@@ -53,10 +53,10 @@ html, body
 }
 
 .navigation-element-item 
-{ 
-  font-size: 18px; 
-  font-weight: 400; 
-  text-underline-offset: 4px; 
+{
+  font-size: 18px;
+  font-weight: 400;
+  text-underline-offset: 4px;
 }
 
 .navigation-element-item a 
@@ -66,10 +66,10 @@ html, body
 }
 
 .main-site-logo-image 
-{ 
-  width: 148px; 
-  height: 105px; 
-  justify-self: center; 
+{
+  width: 148px;
+  height: 105px;
+  justify-self: center;
 }
 
 .contact-information-list 
@@ -116,10 +116,10 @@ html, body
 }
 
 .hero-main-heading 
-{ 
-  display: flex; 
-  gap: 0; 
-  align-items: center; 
+{
+  display: flex;
+  gap: 0;
+  align-items: center;
 }
 
 .hero-heading-line 
@@ -132,24 +132,24 @@ html, body
 }
 
 .hero-heading-line.compact-spacing 
-{ 
-  letter-spacing: 0; 
+{
+  letter-spacing: 0;
 }
 
 .hero-heading-line.extended-spacing 
-{ 
-  letter-spacing: 60px; 
+{
+  letter-spacing: 60px;
 }
 
 .hero-heading-line.centered-text 
-{ 
-  text-align: center; 
-  width: 100%; 
+{
+  text-align: center;
+  width: 100%;
 }
 
 .hero-heading-line.right-aligned  
-{ 
-  text-align: right; 
+{
+  text-align: right;
 }
 
 .hero-additional-info 
@@ -186,9 +186,9 @@ html, body
 }
 
 .lots-section-container 
-{ 
-  padding: 0; 
-  background: transparent; 
+{
+  padding: 0;
+  background: transparent;
 }
 
 .lots-section-heading 
@@ -233,18 +233,18 @@ html, body
 }
 
 .film-lot-background    
-{ 
-  background-image: url("./images/card-lot-01.jpg"); 
+{
+  background-image: url("./images/card-lot-01.jpg");
 }
 
 .book-lot-background      
-{ 
-  background-image: url("./images/card-lot-02.jpg"); 
+{
+  background-image: url("./images/card-lot-02.jpg");
 }
 
 .art-lot-background   
-{ 
-  background-image: url("./images/card-lot-03.jpg"); 
+{
+  background-image: url("./images/card-lot-03.jpg");
 }
 
 .lot-item-title 
@@ -279,8 +279,8 @@ html, body
 }
 
 .about-section-wrapper 
-{ 
-  margin-top: 148px; 
+{
+  margin-top: 148px;
 }
 
 .about-content-grid 
@@ -305,17 +305,17 @@ html, body
 }
 
 .about-section-logo 
-{ 
-  width: 148px; 
-  height: 114px; 
+{
+  width: 148px;
+  height: 114px;
 }
 
 .about-text-content 
-{ 
-  display: flex; 
-  flex-direction: column; 
-  gap: 24px; 
-  padding-top: 100px; 
+{
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding-top: 100px;
 }
 
 .about-section-heading 
@@ -336,13 +336,13 @@ html, body
 }
 
 .about-paragraphs-container .first-paragraph 
-{ 
-  padding-top: 76px; 
+{
+  padding-top: 76px;
 }
 
 .about-paragraphs-container .second-paragraph 
-{ 
-  padding-top: 25px; 
+{
+  padding-top: 25px;
 }
 
 .page-footer-section 
@@ -356,24 +356,24 @@ html, body
 }
 
 .footer-contact-list 
-{ 
-  margin: 0; 
-  padding-left: 0; 
-  list-style: none; 
-  font-style: normal; 
+{
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+  font-style: normal;
 }
 
 .footer-navigation 
-{ 
-  padding-left: 35px; 
+{
+  padding-left: 35px;
 }
 
 .footer-nav-list 
-{ 
-  list-style: none; 
-  margin: 0; 
-  padding: 0; 
-  text-underline-offset: 3px; 
+{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-underline-offset: 3px;
 }
 
 .footer-nav-link 
@@ -388,25 +388,25 @@ html, body
 }
 
 .social-icons-container 
-{ 
-  display: flex; 
-  gap: 48px; 
-  align-items: center; 
+{
+  display: flex;
+  gap: 48px;
+  align-items: center;
 }
 
 .social-icon-image 
-{ 
-  width: 48px; 
-  height: 48px; 
-  display: block; 
+{
+  width: 48px;
+  height: 48px;
+  display: block;
 }
 
 .invisible-element 
-{ 
-  display: none !important; 
+{
+  display: none !important;
 }
 
 .text-center-alignment 
-{ 
-  text-align: center; 
+{
+  text-align: center;
 }
