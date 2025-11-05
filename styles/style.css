@@ -172,7 +172,6 @@
 
 .items-grid {
   display: flex;
-  flex-wrap: wrap;
   gap: 25px;
   width: 100%;
   margin-bottom: 30px;
